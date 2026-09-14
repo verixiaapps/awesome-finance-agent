@@ -60,6 +60,7 @@ Execution tools are the action layer. They let agents trade, transfer, swap, pay
 | [Solana MCP Server](https://github.com/sendaifun/solana-mcp) | Chain MCP server | Crypto | Standardized Solana actions for MCP-native agents. | Clear path from chain kit to MCP interface. |
 | [Jupiter MCP Server](https://github.com/dcSpark/mcp-server-jupiter) | DEX MCP server | Crypto | Quotes, swap transaction building, and swap execution. | Good archetype for finance-specific tool packaging. |
 | [Blockscout MCP Server](https://github.com/blockscout/mcp-server) | Explorer MCP server | Crypto | Explorer-backed data and contract inspection tools. | Helps agents inspect state and audit transactions. |
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted Streamable HTTP MCP server: free `scan_token` tool returns A+–F token-safety grades across Solana and 8 EVM chains; paid tools settle per call in USDC via x402.
 
 ### Exchanges, Brokerages, and Payments
 
